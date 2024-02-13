@@ -1,0 +1,16 @@
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.Form1.resources
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.csproj.GenerateResource.cache
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.AssemblyInfoInputs.cache
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.AssemblyInfo.cs
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.csproj.CoreCompileInputs.cache
+D:\VS projects\Grayscale\Grayscale\bin\Debug\net8.0-windows\Grayscale.exe
+D:\VS projects\Grayscale\Grayscale\bin\Debug\net8.0-windows\Grayscale.deps.json
+D:\VS projects\Grayscale\Grayscale\bin\Debug\net8.0-windows\Grayscale.runtimeconfig.json
+D:\VS projects\Grayscale\Grayscale\bin\Debug\net8.0-windows\Grayscale.dll
+D:\VS projects\Grayscale\Grayscale\bin\Debug\net8.0-windows\Grayscale.pdb
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.dll
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\refint\Grayscale.dll
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.pdb
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\Grayscale.genruntimeconfig.cache
+D:\VS projects\Grayscale\Grayscale\obj\Debug\net8.0-windows\ref\Grayscale.dll
